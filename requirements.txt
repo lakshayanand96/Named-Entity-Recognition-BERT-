@@ -18,9 +18,6 @@ jmespath==0.9.5
 joblib==0.14.1
 MarkupSafe==1.1.1
 mkl
-mkl-fft
-#mkl-random
-#mkl-service
 nltk==3.6.7
 #numpy @ file:///opt/concourse/worker/volumes/live/e6a5a904-ea21-4841-4eec-d53e1ac1014c/volume/numpy_and_numpy_base_1603479626870/work
 olefile==0.46
