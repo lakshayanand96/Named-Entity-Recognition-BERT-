@@ -32,7 +32,7 @@ sacremoses==0.0.38
 sentencepiece==0.1.95
 seqeval==0.0.5
 #six @ file:///tmp/build/80754af9/six_1644875935023/work
-tbb==2021.4.0
+tbb==2021.5.1
 tbb4py==2021.5.0
 torch==1.10.2
 torchaudio==0.10.2
